@@ -1,0 +1,8 @@
+button {
+    height: 5vmin;
+    width: 5vmin;
+}
+
+button:hover {
+    background-color: burlywood;
+}

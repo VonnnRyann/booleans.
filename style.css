@@ -1,0 +1,27 @@
+
+table, th, td {
+        border:1px solid red;
+        border-collapse: collapse;
+
+}
+table {
+        width: 100%;
+        border-radius: 10px;
+        overflow: hidden;
+        width: 80vmin;
+        margin: auto;
+}
+th {
+        background-color: #656d4a;
+        font-size: 1.5em;
+        line-height: 1.5em;
+        color: rgb(241, 180, 180);
+
+}
+td {
+    background-color: bisque;
+    text-align: center;
+    font-size: 1.5em;
+    color: rgb(59, 51, 30);
+    font-weight: bolder;
+}
